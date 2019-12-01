@@ -2,15 +2,12 @@
 dlib, object tracking with 68 face landmarks with video landmark stabilization
 
 
-Video link:
+**youtube video link combined videos:**
 
 https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be)
-
-
-PIPE LINE:
+**PIPE LINE:**
 1. Convert video to frames and rotate the frames vertically.
 2. Using 5 point mask, normalize the face(highlight the prominent features) descarding the background.
 3. On top of the Aligned face, apply a mesh with 68 landmarks.
