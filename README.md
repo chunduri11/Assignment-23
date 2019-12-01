@@ -6,10 +6,6 @@ Video link:
 
 https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be
-" target="_blank"><img src="https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be%2F3.jpg" 
-alt="Video of face detection and tracking." width="240" height="180" border="10" /></a>
-
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be)
 
