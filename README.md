@@ -6,10 +6,15 @@ Video link:
 
 https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be
+" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=K-RFjRfKaWE&feature=youtu.be)
 
 
-PIPE LINE: \br
+PIPE LINE:
 1. Convert video to frames and rotate the frames vertically.
 2. Using 5 point mask, normalize the face(highlight the prominent features) descarding the background.
 3. On top of the Aligned face, apply a mesh with 68 landmarks.
